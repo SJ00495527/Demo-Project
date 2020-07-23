@@ -11,4 +11,13 @@ steps to run the camunda application:
 Helping Links:
 
 1) Cockpit: http://localhost:8080/camunda/app/cockpit/default
+		credentials:
+				username: demo
+				password: demo
+2) tasklist: http://localhost:8080/camunda/app/tasklist/default/
+
+
+camunda rest apis:
+
+1)
   
